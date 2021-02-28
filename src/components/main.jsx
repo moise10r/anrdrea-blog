@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Aside from './aside';
+import Aside from './navbar';
 class Main extends Component {
     // state = {  }
     render() { 
