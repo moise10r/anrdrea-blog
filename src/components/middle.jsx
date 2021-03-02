@@ -9,7 +9,7 @@ class Middle extends Component {
     render() { 
         return (<div className="main-hear-middle">
                     <div className="article-container-left">
-                    <Article/>
+                    <Article title="Moise"/>
                     </div>
                     
                     

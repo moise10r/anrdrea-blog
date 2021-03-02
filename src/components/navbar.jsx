@@ -32,7 +32,7 @@ class Aside extends Component {
                     </form>
                     <footer>
                         
-                        <p class="pfooter">
+                        <p className="pfooter">
 Copyright ©2021 All rights reserved | This template is made with  by   <IconContext.Provider value={{ className: "send-email" }}>
                                   <AiFillHeart />
                                 </IconContext.Provider><a href="#2" target="_blank">Moise Design</a>
