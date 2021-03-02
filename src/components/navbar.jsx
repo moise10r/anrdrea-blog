@@ -4,6 +4,7 @@ import{RiSendPlaneFill} from "react-icons/ri"
 import{AiFillHeart} from "react-icons/ai"
 
 class Aside extends Component {
+
     // state = {  }
     render() { 
         return (<div className="aside-main-area">
@@ -35,7 +36,7 @@ class Aside extends Component {
 Copyright ©2021 All rights reserved | This template is made with  by   <IconContext.Provider value={{ className: "send-email" }}>
                                   <AiFillHeart />
                                 </IconContext.Provider><a href="#2" target="_blank">Moise Design</a>
-</p>
+                        </p>
                         
                     </footer>
             </div>
